@@ -1,1 +1,1 @@
-# MCP-with-OpenAI-
+# MCP-with-OpenAI
